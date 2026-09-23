@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d5116445fe8e214806f542e7",
+  "owner": "cevqvv",
+  "repo": "page-5a9416348d92eae80e0cf644",
+  "title": "西瓜云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5a9416348d92eae80e0cf644",
+      "a": "西瓜云",
+      "b": "稳定全球clash加速器",
+      "entity": "西瓜云",
+      "brand": "西瓜云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d4013ac6fe60e5d8dd0f06d4d9e20d72952eb2c992b240d7d08ee4eb638f42bc",
+      "content": {
+        "primary_entity": "西瓜云",
+        "keyword1": "西瓜云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面、移动与路由场景分别有对应方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合设备数量与月流量，选定套餐后按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，面向需要跨境访问与稳定连接的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，带 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备。月付与年付均可选择，年付价格更省。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三个方面快速梳理。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按常用设备数匹配套餐更省预算。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 分档，旗舰版与团队版适合流媒体与高带宽场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付优惠，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "三步完成从挑选到可用的配置流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "西瓜云提供多档订阅方案，覆盖日常浏览、流媒体与游戏加速等场景，支持月付与年付，配置过程清晰，适合个人与团队按需选择。",
+          "AI_HERO_SUBTITLE": "多设备多场景的订阅选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 流量，支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路优化上逐级提升，按使用强度选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认设备数与流量是否覆盖常用场景。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "西瓜云订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按需选择即可。",
+          "AI_FAQ_ANSWER_2": "旗舰版与团队版包含全节点原生流媒体解锁，基础版支持基础流媒体解锁，具体解锁效果视平台与线路而定。",
+          "AI_FAQ_ANSWER_3": "可以。年付比月付更划算，例如基础版年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，均可直接下单。",
+          "AI_FAQ_ANSWER_4": "在客户端内找到订阅导入入口，粘贴购买后获得的订阅链接，更新节点列表后选择延迟较低的节点连接。",
+          "AI_FAQ_ANSWER_5": "达到套餐流量上限后连接会暂停，可在账户内升级套餐或等待下个计费周期恢复。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐主要差别在哪里？",
+          "AI_FAQ_QUESTION_2": "能解锁流媒体吗？",
+          "AI_FAQ_QUESTION_3": "支持年付吗？价格有优惠吗？",
+          "AI_FAQ_QUESTION_4": "客户端怎么导入订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--cc-c72cw3n9r1h.com",
+    "host": "xn--cc-c72cw3n9r1h.com"
+  },
+  "file_hashes": {
+    "index.html": "967e66aa68761487cbb608edbcaf0bfae74967813867693d88b6a168305660f8",
+    "sitemap.xml": "f7f31af46f9aa443a94c51fdedb73f8427caf7ddc84c7f7a5c720f0cd1ac15ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "24cfaccc882aa5cc09315f2274e14eb55d50ab932905f79033d03abcf36d6940",
+    "robots.txt": "7d5c611f3783c5494ec311fe6135441924baa10e4318d46a795a59ee828745a4",
+    "cb1d3a441cf44c0fc9a82693a6fbfc8e.txt": "088da32e6a38eaa550023af2feca47613d4c44aa6830337913a8d2194aa8b137"
+  },
+  "revision": "d926df3a329e3ed64219fb6798c56986fbf2c53755ebb2895989deefaf573347"
+}
